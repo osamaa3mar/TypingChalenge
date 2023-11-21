@@ -1,0 +1,14 @@
+C:\Users\Someone\source\repos\TypingChalenge\bin\Debug\TypingChalenge.exe.config
+C:\Users\Someone\source\repos\TypingChalenge\bin\Debug\TypingChalenge.exe
+C:\Users\Someone\source\repos\TypingChalenge\bin\Debug\TypingChalenge.pdb
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.csproj.AssemblyReference.cache
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.Form1.resources
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.Properties.Resources.resources
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.csproj.GenerateResource.cache
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.csproj.CoreCompileInputs.cache
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.exe
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.pdb
+C:\Users\Someone\source\repos\TypingChalenge\bin\Debug\Guna.UI2.dll
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.Form2.resources
+C:\Users\Someone\source\repos\TypingChalenge\obj\Debug\TypingChalenge.csproj.CopyComplete
